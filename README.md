@@ -89,4 +89,3 @@
 ## Top languages used in repository card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazukiMoriai&theme=transparent)
 
-![GitHub contribution snake](https://raw.githubusercontent.com/KazukiMoriai/KazukiMoriai/output/github-contribution-grid-snake.svg)
